@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 class Methods12
 {
     static int FactorialByRecursion(int n) // Method to calculate the factorial of a number using recursion
